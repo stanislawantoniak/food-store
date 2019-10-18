@@ -20,6 +20,6 @@ export default {
         return require(`@/assets/img/banners/${this.file}`);
       }
     },
-  },
+  }, 
 };
 </script>
