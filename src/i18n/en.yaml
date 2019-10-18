@@ -21,7 +21,7 @@ main:
     salesTax: "Sales Tax"
     viewDetails: "View Details"
   header:
-    title: "Sunrise"
+    title: "Mars Foods"
     miniCart: "Cart"
     viewBag: "View Bag"
     checkout: "Checkout"
