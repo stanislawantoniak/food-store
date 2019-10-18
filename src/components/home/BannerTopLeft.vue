@@ -25,9 +25,9 @@ export default {
 
 <i18n>
 en:
-  title: "Summer Lovin'"
-  subtitle: "Summer must have outfits"
-  linkLabel: "Shop collection"
+  title: "Chocolate sweets"
+  subtitle: "Not only snickers are here"
+  linkLabel: "Gte your bar"
 de:
   title: "Sommer Fashion"
   subtitle: "Beste Outfits für die Saison"
