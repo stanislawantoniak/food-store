@@ -27,7 +27,7 @@ export default {
 en:
   title: "Chocolate sweets"
   subtitle: "Not only snickers are here"
-  linkLabel: "Gte your bar"
+  linkLabel: "Get your bar"
 de:
   title: "Sommer Fashion"
   subtitle: "Beste Outfits für die Saison"
