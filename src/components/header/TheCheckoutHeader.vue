@@ -6,7 +6,7 @@
           <router-link to="/"
                        class="brand-logo">
             <img src="../../assets/img/logo-white-text.svg"
-                 alt="SUNRISE"
+                 alt="Mars Foods"
                  class="img-responsive checkout-header-logo"/>
           </router-link>
         </div>

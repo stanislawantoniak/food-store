@@ -57,7 +57,7 @@
           <router-link to="/"
                        class="brand-logo">
             <img src="../../assets/img/logo.svg"
-                 alt="SUNRISE"
+                 alt="Mars Foods"
                  class="img-responsive"/>
           </router-link>
         </div>
