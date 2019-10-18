@@ -167,7 +167,7 @@ export default {
     checkout: "Checkout"
   en:
     miniCart: "Cart"
-    viewBag: "View Bag"
+    viewBag: "View Cart"
     quantity: "quantity"
     price: "Price"
     totalPrice: "Total"

@@ -154,9 +154,9 @@ export default {
 
 <i18n>
 en:
-  yourBag: "Your Bag"
+  yourBag: "Your Cart"
   itemsTotal: "{n} item in total | {n} items in total"
-  empty: "Your bag is empty"
+  empty: "Your cart is empty"
   continueShopping: "Continue Shopping"
   startCheckout: "Start Checkout"
 de:
